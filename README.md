@@ -54,7 +54,7 @@ node --version
 
 ```bash
 # Nếu có git
-git clone <repository-url>
+git clone https://github.com/lethang11022005/Auto_FPL_FCOnline.git
 cd auto_fpl_fco
 
 # Hoặc download ZIP và giải nén
@@ -115,6 +115,8 @@ npm start myusername mypassword
 
 > **Lưu ý:** Tài khoản và mật khẩu là BẮT BUỘC. Chương trình sẽ tự động đăng nhập và bắt đầu chơi.
 
+
+![Auto Login](./img/manual.png)
 ---
 
 ### Dừng chương trình
