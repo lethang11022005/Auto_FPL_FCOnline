@@ -1,0 +1,30 @@
+{
+  "name": "auto-fpl-fco",
+  "version": "2.0.0",
+  "description": "Auto game EPL FOnline Garena - Production Ready",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "install-browser": "npx playwright install msedge"
+  },
+  "keywords": [
+    "automation",
+    "playwright",
+    "edge",
+    "game",
+    "epl",
+    "fconline",
+    "garena"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "playwright": "^1.42.0"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.0"
+  }
+}
