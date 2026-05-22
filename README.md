@@ -114,9 +114,6 @@ npm start myusername mypassword
 ![Auto Login](./img/login.png)
 
 > **Lưu ý:** Tài khoản và mật khẩu là BẮT BUỘC. Chương trình sẽ tự động đăng nhập và bắt đầu chơi.
-
-
-![Auto Login](./img/manual.png)
 ---
 
 ### Dừng chương trình
