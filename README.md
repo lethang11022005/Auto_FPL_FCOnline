@@ -86,7 +86,7 @@ npm start
 
 Nếu thấy thông báo yêu cầu nhập tài khoản/mật khẩu → Cài đặt thành công!
 
-![Auto Login](./img/Screenshot%202026-05-22%20212655.png)
+![Setup Process](./img/setup.png)
 ---
 
 ## 🚀 Sử dụng
@@ -111,9 +111,7 @@ node src/index.js <tài_khoản> <mật_khẩu>
 npm start myusername mypassword
 ```
 
-![Auto Login](./img/Screenshot%2026-05-22%212742.png)
-![Auto Login](./img/Screenshot%2026-05-22%212601.png)
-
+![Auto Login](./img/login.png)
 
 > **Lưu ý:** Tài khoản và mật khẩu là BẮT BUỘC. Chương trình sẽ tự động đăng nhập và bắt đầu chơi.
 
